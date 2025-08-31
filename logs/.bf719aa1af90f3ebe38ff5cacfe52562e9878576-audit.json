@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/gregederer/dev-solar/with-prd/suncrm/logs/.bf719aa1af90f3ebe38ff5cacfe52562e9878576-audit.json",
+    "files": [
+        {
+            "date": 1756651946241,
+            "name": "/Users/gregederer/dev-solar/with-prd/suncrm/logs/mcp-puppeteer-2025-08-31.log",
+            "hash": "059536986cfcbbcc2ede08860ced6269fec13097d547cc406205af35faa51786"
+        }
+    ],
+    "hashType": "sha256"
+}
